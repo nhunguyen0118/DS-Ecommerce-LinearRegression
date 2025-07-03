@@ -73,17 +73,3 @@ These changes are likely to drive higher customer engagement and spending.
 
 * Python (pandas, matplotlib, seaborn, scikit-learn, statsmodels)
 * Jupyter Notebook
-
----
-
-## 📂 Project Structure
-
-```
-.
-├── data/                   # CSV files
-├── notebooks/             # Jupyter notebook
-├── images/                # Plots and visualizations
-├── README.md              # Project summary
-```
-
----
